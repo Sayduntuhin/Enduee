@@ -1,16 +1,27 @@
-# enduee
+# Enduee - Clothes Shopping App
 
-A new Flutter project.
+Enduee is a Flutter-based clothes shopping app that allows users to browse and select individual products, choose sizes, search for items, add them to their cart, and manage their cart. While the current version uses dummy data, it is designed for future integration with a database.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project on your local machine, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository.
+2. Open the project in your preferred Flutter development environment.
+3. Run the app on an emulator or physical device.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Individual product selection
+- Size selection
+- Item searching
+- Cart management (add and delete items)
+
+## Future Plans
+
+In the future, we plan to:
+- Integrate a database connection for real product data.
+- Enhance the user interface and user experience.
+- Implement user authentication and profiles.
+
+## Final result 
