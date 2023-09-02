@@ -25,3 +25,8 @@ In the future, we plan to:
 - Implement user authentication and profiles.
 
 ## Final result 
+| ![Image 1](assets/images/enduee1.jpg) | ![Image 2](assets/images/enduee2.jpg) | ![Image 3](assets/images/enduee3.jpg) | ![Image 4](assets/images/enduee4.jpg) | ![Image 5](assets/images/enduee5.jpg) | ![Image 6](assets/images/enduee6.jpg) | ![Image 7](assets/images/enduee7.jpg) |
+|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
+
+
+
